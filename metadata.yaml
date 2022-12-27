@@ -1,0 +1,40 @@
+_repo: The-life-of-John-Metcalf-commonly-called-Blind-Jack-of-Knaresborough-with-anecdotes-of-his-ex__69595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Metcalf, John
+    alias: Blind Jack, of Knaresborough
+    birthdate: 1717
+    deathdate: 1810
+    gutenberg_agent_id: '55307'
+    url: http://www.gutenberg.org/2009/agents/55307
+    wikipedia: https://en.wikipedia.org/wiki/John_Metcalf_(civil_engineer)
+description: ''
+gutenberg_issued: '2022-12-20'
+identifiers:
+  gutenberg: '69595'
+language: en
+pgterms:marc904: https://archive.org/details/lifejohnmetcalf00metcgoog
+pgterms:marc905: 20200926051504metcalf
+pgterms:marc906: '1795'
+pgterms:marc907: GB
+production_note: deaurider, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: E. & R. Peck,1795.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1745-1746'
+- !lcsh 'Metcalf, John, 1717-1810'
+- !lcsh 'Highway engineers -- England -- Biography'
+- !lcsh 'Blind -- England -- Biography'
+- !lcc 'CT'
+- GITenberg
+title: "The life of John Metcalf, commonly called Blind Jack of Knaresborough\r\n\
+  with ... anecdotes of his exploits in hunting, card-playing, &c., some particulars\
+  \ relative to the expedition against the rebels in 1745 ...; and also a succinct\
+  \ account of his various contracts for making roads, erecting bridges ... in Yorkshire,\
+  \ Lancashire, Derbyshire, and Cheshire ..."
+url: http://www.gutenberg.org/ebooks/69595
